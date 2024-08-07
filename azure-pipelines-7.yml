@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'DD-KIETHVT'
+  name: Default
 
 variables:
   solution: '**/*.sln'
